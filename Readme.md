@@ -1,0 +1,1 @@
+Ejemplo básico para controlar un servo con un potenciómetro y muestra el movimiento por LCD
